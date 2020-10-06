@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a204fc-91f5-4408-b1e8-dea5975587c4" name="Default Changelist" comment="DevOps - week 05 lab - scripts">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="f0a204fc-91f5-4408-b1e8-dea5975587c4" name="Default Changelist" comment="DevOps - week 05 lab - scripts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,8 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601942748019</updated>
-      <workItem from="1601942753084" duration="1570000" />
+      <workItem from="1601942753084" duration="2363000" />
     </task>
+    <task id="LOCAL-00001" summary="DevOps - week 05 lab - scripts">
+      <created>1601945053665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601945053666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
